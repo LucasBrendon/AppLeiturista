@@ -1,0 +1,11 @@
+C:\Dev\AppLeiturista\Business\bin\Debug\net5.0\Business.deps.json
+C:\Dev\AppLeiturista\Business\bin\Debug\net5.0\Business.dll
+C:\Dev\AppLeiturista\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Dev\AppLeiturista\Business\bin\Debug\net5.0\Business.pdb
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.dll
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Dev\AppLeiturista\Business\obj\Debug\net5.0\Business.pdb
